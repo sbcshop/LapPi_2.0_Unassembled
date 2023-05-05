@@ -29,6 +29,7 @@ The unassembled version is a treat for our techie friends and electronic enthusi
 - 01 x Pack of Screws and Standoffs
 - 01 x Protective Case
 
+## Step 1: Setup Raspberry Pi
 Before we begin assembling the LapPi, let us first set up the Raspberry Pi, which you may do by following the latest Online [Raspberry Pi Setup instructions](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up)
 
 Or [Click Here](https://github.com/sbcshop/LapPi_2.0_Unassembled/blob/main/Documents/Setting%20up%20your%20Raspberry%20Pi.pdf) to download a pdf of how to set up Pi.
