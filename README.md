@@ -34,7 +34,34 @@ Before we begin assembling the LapPi, let us first set up the Raspberry Pi, whic
 
 Or [Click Here](https://github.com/sbcshop/LapPi_2.0_Unassembled/blob/main/Documents/Setting%20up%20your%20Raspberry%20Pi.pdf) to download a pdf of how to set up Pi.
 
-After that, you may begin assembling your LapPi. So, for this, follow the steps below:
+## Step 2: Assembly Process
+Before we proceed for assembly make sure you have below listed Screws, nuts and standoff in mentioned qty required for various section of LapPi assembly,
+* For Body: (Qty - 28 set) 
+  * Screw - M3x10mm
+  * Nut- M3
+ 
+* For KeyBoard: (Qty - 5 set) 
+  * Standoff - M3x12mm
+  * Screw - M3x10mm
+  * Nut - M3
 
+* For Camera: (Qty - 4 set) 
+  * Screw - M1.5x10mm
+  * Nut - M1.5
+
+* For Display: (Qty - 4 set) 
+  * Standoff - M3x12mm
+  * Screw - M3x10mm
+  * Nut - M3
+
+* For Raspberry Pi & UPS Hat: (Qty - 8 set) 
+  * Standoff - M2.5x12mm
+  * Screw - M2.5x10mm
+  * Nut - M2.5
+
+* For Hinge : (Qty - 8 set)
+  * Screw Self-Taping - M3x6mm
+
+### LapPi 2.0 Base Assembly 
 
 
