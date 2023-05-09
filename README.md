@@ -6,11 +6,11 @@ LapPi 2.0 is in its core is a superbly loaded computer, one of its kind and only
 
 The users may choose any single board computer (SBC) for LapPi such as RockPi, Asus Tinker, BananaPI or RaspberryPi. Just connect the SBC and voilà.
 
-LapPi 2.0 is available in 2 variants - [assembled](https://github.com/sbcshop/LapPi_2.0_Assembled) and unassembled. 
+LapPi 2.0 is available in 2 variants - **_Assembled_** and **_Unassembled_**. 
 
-You can checkout [Step by Step Guide for Assembled version of LapPi 2.0](https://github.com/sbcshop/LapPi_2.0_Assembled)
+You can checkout Step by Step Guide for **_Assembled version of LapPi 2.0_ [here](https://github.com/sbcshop/LapPi_2.0_Assembled)** 
 
-The unassembled version is a treat for our techie friends and electronic enthusiasts. As we mentioned, LapPi 2.0 is 100% 'Do It Yourself', you get all the components and parts in individual packing in a classy protective case. Assembly of the LapPi 2.0 is very easy. A step by step guide will be provided to assist you in assembling your machine.
+The unassembled version is a treat for our techie friends and electronic enthusiasts. As we mentioned, LapPi 2.0 is 100% 'Do It Yourself', you get all the components and parts in individual packing in a classy protective case. Assembly of the LapPi 2.0 is very easy.
 
 ### Box Content
 - 13 x 3mm thick Acrylic Panels
