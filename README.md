@@ -63,7 +63,7 @@ Before we proceed for assembly make sure you have below listed Screws, nuts and 
   * Screw Self-Taping - M3x6mm
 
 Check below demo image to understand how to work with screw and nuts fitting,
-<img src="https://github.com/sbcshop/LapPi_2.0_Unassembled/blob/main/images/Nut_and_screw_assembly.mp4">
+https://github.com/sbcshop/LapPi_2.0_Unassembled/assets/129948335/a0293ae8-44c3-46d1-a4e1-d1bc87d8b91a
 
 ### 1) LapPi 2.0 Base Assembly: 
 
