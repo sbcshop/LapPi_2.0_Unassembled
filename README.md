@@ -62,10 +62,16 @@ Before we proceed for assembly make sure you have below listed Screws, nuts and 
 * For Hinge : (Qty - 8 set)
   * Screw Self-Taping - M3x6mm
 
-Check below demo image to understand how to work with screw and nuts fitting,
+Checkout below demo to understand working with screw and nuts fitting,
 
 https://github.com/sbcshop/LapPi_2.0_Unassembled/assets/129948335/a0293ae8-44c3-46d1-a4e1-d1bc87d8b91a
 
 ### 1) LapPi 2.0 Base Assembly: 
+Here in base assembly section will be dealing with some acrylic body parts like Base plate and side layers, for this you will need M3x10mm Screw, M3 Nut
+Next will work with Raspberry Pi & UPS Hat for which you will need above mentioned screw, standoff and nuts.
+Checkout below video for better understanding how to achieve this part-
+
+https://github.com/sbcshop/LapPi_2.0_Unassembled/assets/129948335/8dae1278-d4ae-416d-9feb-b9911c26bf9c
+
 
 
