@@ -67,18 +67,24 @@ Checkout below demo to understand working with screw and nuts fitting,
 https://github.com/sbcshop/LapPi_2.0_Unassembled/assets/129948335/a0293ae8-44c3-46d1-a4e1-d1bc87d8b91a
 
 ### 1) LapPi 2.0 Base Part Assembly: 
-Here in base assembly section will be dealing with some acrylic body parts like Base plate and side layers, for this you will need M3x10mm Screw, M3 Nut
-Next will work with Raspberry Pi & UPS Hat for which you will need above mentioned screw, standoff and nuts.
-Checkout below video for better understanding how to achieve this part-
+- Here in base assembly section will be dealing with some acrylic body parts like Base plate and side layers, for this you will need M3x10mm Screw, M3 Nut
+- First you will place UPS power and Raspberry Pi using mentioned sets of standoff, screw and nuts. 
+- Next you will attach side layer plus support layer for keyboard.
+
+Checkout below video for better understanding how to achieve this section of assembly:
 
 https://github.com/sbcshop/LapPi_2.0_Unassembled/assets/129948335/8dae1278-d4ae-416d-9feb-b9911c26bf9c
 
 ### 2) LapPi 2.0 Top Part Assembly:
-In this section will be dealing with display, camera and speaker fittings. So checkout below video for steps to follow,
+- In this section will be dealing with display, camera and speaker fittings. 
+- Again first take base support plate attach display and speaker.
+- Then connect side layer plus top support layer on which camera will be attach  
+So checkout below video for steps to follow,
 
 https://github.com/sbcshop/LapPi_2.0_Unassembled/assets/129948335/ca4e153c-fdbd-4ea0-9eae-8847aba858ef
 
 ### 3) Combine top and bottom parts together with hinge:
+- Finally will be attaching Top and Bottom section of assembly together with hinge as shown below:
 
 https://github.com/sbcshop/LapPi_2.0_Unassembled/assets/129948335/b3b90d18-07bd-4d57-b3aa-9d9b67306c58
 
