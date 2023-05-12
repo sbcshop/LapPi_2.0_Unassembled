@@ -59,6 +59,10 @@ Before we proceed for assembly make sure you have below listed Screws, nuts and 
   * Screw - M2.5x10mm
   * Nut - M2.5
 
+* For Speaker: (Qty - 8 set)
+  * Standoff - M3x24mm
+  * Nut - M3
+
 * For Hinge : (Qty - 8 set)
   * Screw Self-Taping - M3x6mm
 
