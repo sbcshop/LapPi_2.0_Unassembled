@@ -64,27 +64,29 @@ Before we proceed for assembly make sure you have below listed Screws, nuts and 
 
 Checkout below demo to understand working with screw and nuts fitting,
 
-https://github.com/sbcshop/LapPi_2.0_Unassembled/assets/129948335/a0293ae8-44c3-46d1-a4e1-d1bc87d8b91a
+<img src="https://github.com/sbcshop/LapPi_2.0_Unassembled/blob/main/images/Nut-and-screw-assembly.gif" >
 
 ### 1) LapPi 2.0 Base Part Assembly: 
 - Here in base assembly section will be dealing with some acrylic body parts like Base plate and side layers, for this you will need M3x10mm Screw, M3 Nut
 - First you will place UPS power and Raspberry Pi using mentioned sets of standoff, screw and nuts. 
 - Next you will attach side layer plus support layer for keyboard.
 
-Checkout below video for better understanding how to achieve this section of assembly:
+Checkout demo below for better understanding how to achieve this section of assembly:
 
-https://github.com/sbcshop/LapPi_2.0_Unassembled/assets/129948335/8dae1278-d4ae-416d-9feb-b9911c26bf9c
+<img src="https://github.com/sbcshop/LapPi_2.0_Unassembled/blob/main/images/BottomCover-assembly.gif" > 
 
 ### 2) LapPi 2.0 Top Part Assembly:
 - In this section will be dealing with display, camera and speaker fittings. 
 - Again first take base support plate attach display and speaker.
 - Then connect side layer plus top support layer on which camera will be attach  
-So checkout below video for steps to follow,
+So checkout below steps to follow,
 
-https://github.com/sbcshop/LapPi_2.0_Unassembled/assets/129948335/ca4e153c-fdbd-4ea0-9eae-8847aba858ef
+<img src= "https://github.com/sbcshop/LapPi_2.0_Unassembled/blob/main/images/TopCover-Assembly.gif" >
+
 
 ### 3) Combine top and bottom parts together with hinge:
 - Finally will be attaching Top and Bottom section of assembly together with hinge as shown below:
 
-https://github.com/sbcshop/LapPi_2.0_Unassembled/assets/129948335/b3b90d18-07bd-4d57-b3aa-9d9b67306c58
+<img src= "https://github.com/sbcshop/LapPi_2.0_Unassembled/blob/main/images/Housing-Main-assembly.gif">
+
 
