@@ -100,7 +100,7 @@ So checkout below steps to follow,
 
 <img src= "https://github.com/sbcshop/LapPi_2.0_Unassembled/blob/main/images/Housing-Main-assembly.gif">
 
-Checkout one Shot Video of Complete Assembly process of LapPi 2.0 :
+Check out this one-shot video of the entire LapPi 2.0 assembly procedure :
 
 
 ## Related Products
