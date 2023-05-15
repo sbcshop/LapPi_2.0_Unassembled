@@ -41,7 +41,7 @@ Or [Click Here](https://github.com/sbcshop/LapPi_2.0_Unassembled/blob/main/Docum
 ## Step 2: Assembly Process
 Before we proceed for assembly make sure you have below listed Screws, nuts and standoff in mentioned qty required for various section of LapPi assembly,
 
-* For Body: (Qty - 28 set) 
+* For Body: (Qty - 28 set)
   * Screw - M3x10mm
   * Nut- M3
  
