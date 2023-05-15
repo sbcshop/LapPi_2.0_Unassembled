@@ -101,3 +101,19 @@ So checkout below steps to follow,
 <img src= "https://github.com/sbcshop/LapPi_2.0_Unassembled/blob/main/images/Housing-Main-assembly.gif">
 
 
+## Related Products
+   * [EnkPi 2.9"](https://shop.sb-components.co.uk/products/enkpi?variant=40474297401427) - EnkPi with 2.9" E-paper display size
+   * [EnkPi 4.2"](https://shop.sb-components.co.uk/products/enkpi?variant=40474297434195) - EnkPi with 4.2" E-paper display size
+   * [EnkPi 5.83"](https://shop.sb-components.co.uk/products/enkpi?variant=40474297466963) - EnkPi with 5.83" E-paper display size
+   * [EnkPi 7.5"](https://shop.sb-components.co.uk/products/enkpi?variant=40474297499731) - EnkPi with 7.5" E-paper display size
+ 
+## Product License
+
+This is ***open source*** product. Kindly check LICENSE.md file for more information.
+
+Please contact support@sb-components.co.uk for technical support.
+<p align="center">
+  <img width="360" height="100" src="https://cdn.shopify.com/s/files/1/1217/2104/files/Logo_sb_component_3.png?v=1666086771&width=300">
+</p>
+
+
