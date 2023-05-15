@@ -101,7 +101,8 @@ So checkout below steps to follow,
 <img src= "https://github.com/sbcshop/LapPi_2.0_Unassembled/blob/main/images/Housing-Main-assembly.gif">
 
 Check out this one-shot video of the entire LapPi 2.0 assembly procedure :
-https://www.youtube.com/watch?v=cyu9svhStYQ
+
+[![Watch the video](https://github.com/sbcshop/LapPi_2.0_Unassembled/blob/main/images/LapPi2_assembly.png)](https://www.youtube.com/watch?v=cyu9svhStYQ)
 
 ## Related Products
    * [UPS HAT (Uninterrupted Power Supply)](https://shop.sb-components.co.uk/products/ups-hat-for-raspberry-pi?_pos=4&_sid=f735813a1&_ss=r) -Power backup to save the Raspberry Pi during power outages or unintentional shutdowns
