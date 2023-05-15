@@ -71,6 +71,8 @@ Before we proceed for assembly make sure you have below listed Screws, nuts and 
 * For Hinge : (Qty - 8 set)
   * Screw Self-Taping - M3x6mm
 
+<img src="https://github.com/sbcshop/LapPi_2.0_Unassembled/blob/main/images/screws.jpg" width = "346" height="519">
+
 Checkout below demo to understand working with screw and nuts fitting,
 
 <img src="https://github.com/sbcshop/LapPi_2.0_Unassembled/blob/main/images/Nut-and-screw-assembly.gif" >
