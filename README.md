@@ -105,8 +105,17 @@ Check out this one-shot video of the entire LapPi 2.0 assembly procedure :
 
 ## Related Products
    * [UPS HAT (Uninterrupted Power Supply)](https://shop.sb-components.co.uk/products/ups-hat-for-raspberry-pi?_pos=4&_sid=f735813a1&_ss=r) -Power backup to save the Raspberry Pi during power outages or unintentional shutdowns
+   
+     ![UPS_HAT_Pi](https://cdn.shopify.com/s/files/1/1217/2104/products/UninterruptiblePowerSupplyHATForRaspberryPi.png?v=1673355462&width=300)
+   
    * [Raspberry Pi 4 Model B 4GB kit](https://shop.sb-components.co.uk/products/raspberry-pi-4-model-b-4gb-kit?_pos=6&_sid=1e4720b41&_ss=r) - the ultimate solution for all your DIY computing needs! This kit comes packed with all the essential components you need to start building your own projects right away.
- 
+   
+     ![Pi4_modelB_4GB](https://cdn.shopify.com/s/files/1/1217/2104/files/RASPBERRYPIKIT.jpg?v=1682400182&width=300)
+   
+   * [7" LCD screen](https://shop.sb-components.co.uk/products/7-hdmi-lcd-h-1024x600-ips-capacitive-touch-screen-lcd?_pos=1&_sid=e81b1955a&_ss=r) - 7inch, IPS, 1024x600, Capacitive Touch Screen LCD with Toughened Glass Cover, Supports Raspberry Pi, and can also be used as a computer monitor.
+   
+     ![7inch_LCD](https://cdn.shopify.com/s/files/1/1217/2104/products/61WO3cVq46L._AC_SL1440.jpg?v=1655190070&width=300)
+   
 ## Product License
 
 This is ***open source*** product. Kindly check LICENSE.md file for more information.
