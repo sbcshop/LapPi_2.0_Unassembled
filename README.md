@@ -1,5 +1,6 @@
 # LapPi_2.0_Unassembled
 
+<img src="https://cdn.shopify.com/s/files/1/1217/2104/files/LAPPI2.png?v=1682681246" >
 LapPi 2.0 - a 100% DIY modular laptop which is compatible with all single board computers. Now that's what we call a true Level-Up.
 
 LapPi 2.0 is in its core is a superbly loaded computer, one of its kind and only one in such segment. Available in 5 bright (Clear, Red, Blue, Yellow and Black) and beautiful colors, LapPi 2.0 comes in assembled and un-assembled variants.
