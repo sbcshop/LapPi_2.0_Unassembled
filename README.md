@@ -30,6 +30,9 @@ The unassembled version is a treat for our techie friends and electronic enthusi
 - 01 x Pack of Screws and Standoffs
 - 01 x Protective Case
 
+<img src="https://github.com/sbcshop/LapPi_2.0_Unassembled/blob/main/images/POWER%20CABLE.jpg" >
+<img src="https://github.com/sbcshop/LapPi_2.0_Unassembled/blob/main/images/HDMI.jpg" width = "485" height="300">
+
 ## Step 1: Setup Raspberry Pi
 Before we begin assembling the LapPi, let us first set up the Raspberry Pi, which you may do by following the latest Online [Raspberry Pi Setup instructions](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up)
 
@@ -37,6 +40,7 @@ Or [Click Here](https://github.com/sbcshop/LapPi_2.0_Unassembled/blob/main/Docum
 
 ## Step 2: Assembly Process
 Before we proceed for assembly make sure you have below listed Screws, nuts and standoff in mentioned qty required for various section of LapPi assembly,
+
 * For Body: (Qty - 28 set) 
   * Screw - M3x10mm
   * Nut- M3
