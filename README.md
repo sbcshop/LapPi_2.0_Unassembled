@@ -16,7 +16,7 @@ The unassembled version is a treat for our techie friends and electronic enthusi
 ### Box Content
 - 13 x 3mm thick Acrylic Panels
 - 02 x Hinges
-- 02 x 8Speakers
+- 02 x 8ohm Speakers
 - 01 x Raspberry Pi Official 8MP NoIR Camera
 - 01 x Micro USB Power Cable
 - 01 x Type C Power Cable
