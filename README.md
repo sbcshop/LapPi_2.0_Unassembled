@@ -33,6 +33,10 @@ The unassembled version is a treat for our techie friends and electronic enthusi
 <img src="https://github.com/sbcshop/LapPi_2.0_Unassembled/blob/main/images/POWER%20CABLE.jpg" >
 <img src="https://github.com/sbcshop/LapPi_2.0_Unassembled/blob/main/images/HDMI.jpg" width = "485" height="300">
 
+
+### Prepare you HDMI Extension 
+<img src="https://github.com/sbcshop/LapPi_2.0_Unassembled/blob/main/images/HDMI_extension_connection.gif" >
+
 ## Step 1: Setup Raspberry Pi
 Before we begin assembling the LapPi, let us first set up the Raspberry Pi, which you may do by following the latest Online [Raspberry Pi Setup instructions](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up)
 
